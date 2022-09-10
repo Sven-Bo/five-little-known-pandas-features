@@ -3,8 +3,7 @@ In this video, I'm going to talk about 5 lesser known features of Python's panda
 
 
 ## Video Tutorial
-..will follow soon!
-[![YouTube Video](https://img.youtube.com/vi/XXX/0.jpg)](https://youtu.be/XXX)
+[![YouTube Video](https://img.youtube.com/vi/6QRvFFHZTpM/0.jpg)](https://youtu.be/6QRvFFHZTpM)
 
 
 ## Requirements
